@@ -9,7 +9,7 @@
 </div>
 <br>
 
-### Proyects
+### Projects
 - Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree:  <a href="https://github.com/totom3ndez/Arbologico"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
 <p>On this website you could create your own family tree, save it to finish it later and export it in PNG format.
   It was built with static <b>HTML</b> code, <b>Javascript</b> using <b>jQuery</b> and styled with <b>SASS</b>.
