@@ -1,3 +1,6 @@
+<head>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
 ## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐓𝐨𝐦𝐚𝐬 𝐌𝐞𝐧𝐝𝐞𝐳 :computer:
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=your-github-totom3ndez&style=flat-square&color=blue" alt="visitors"/>
@@ -10,8 +13,8 @@
 <br>
 
 ### Proyects
-- Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree:
-<p>In this website you could create your own family tree, save it to finish it later and export it in PNG format.
+- Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree: <a class="github-button" href="https://github.com/totom3ndez/Arbologico" data-icon="octicon-star" aria-label="Star totom3ndez/Arbologico on GitHub">Star</a>
+<p>On this website you could create your own family tree, save it to finish it later and export it in PNG format.
   It was built with static <b>HTML</b> code, <b>Javascript</b> using <b>jQuery</b> and styled with <b>SASS</b>.
   Developed with <b>Gulp</b>.</p>
 
