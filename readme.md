@@ -10,12 +10,12 @@
 <br>
 
 ### Proyects
-- Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree: <img src="C:\Users\tomas\Escritorio\starbtn.png" max-width="100%"></img>
+- Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree:  <a href="https://github.com/totom3ndez/Arbologico"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
 <p>On this website you could create your own family tree, save it to finish it later and export it in PNG format.
   It was built with static <b>HTML</b> code, <b>Javascript</b> using <b>jQuery</b> and styled with <b>SASS</b>.
   Developed with <b>Gulp</b>.</p>
 
-- Soccer team website [Lagran FC](https://totom3ndez.github.io/LagranFC/) :soccer:
+- Soccer team website [Lagran FC](https://totom3ndez.github.io/LagranFC/) :soccer:  <a href="https://github.com/totom3ndez/LagranFC"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
 
 ### Language and tools that I use :wrench:
 <br/>
