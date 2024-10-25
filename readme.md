@@ -15,8 +15,6 @@
   It was built with static <b>HTML</b> code, <b>Javascript</b> using <b>jQuery</b> and styled with <b>SASS</b>.
   Developed with <b>Gulp</b>.</p>
 
-- Soccer team website [Lagran FC](https://totom3ndez.github.io/LagranFC/) :soccer:  <a href="https://github.com/totom3ndez/LagranFC"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
-
 ### Language and tools that I use :wrench:
 <br/>
 
