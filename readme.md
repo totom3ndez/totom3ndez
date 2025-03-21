@@ -10,12 +10,12 @@
 <br>
 
 ### Projects
-- Family tree generator [Arbológico](https://totom3ndez.github.io/Arbologico/) :deciduous_tree:  <a href="https://github.com/totom3ndez/Arbologico"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
+- [Arbológico](https://totom3ndez.github.io/Arbologico/) - <a href="https://github.com/totom3ndez/Arbologico"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
 <p>On this website you could create your own family tree, save it to finish it later and export it in PNG format.
   It was built with static <b>HTML</b> code, <b>Javascript</b> using <b>jQuery</b> and styled with <b>SASS</b>.
   Developed with <b>Gulp</b>.</p>
 
-- [Italo ADN - Official Website](https://italoadn.com/)
+- [Italo ADN - Official Website](https://italoadn.com/) - <a href="https://github.com/totom3ndez/italo-adn"><img width='40px' src="https://user-images.githubusercontent.com/109675347/190912729-ce753f93-c2d1-450f-831c-88ac68cc89ec.png"></img></a>
 <p>Italo ADN is a service offered by Amalia and Tomas to help people obtain their Italian citizenship. They assist with finding documents, certificates, ancestors, or any information that might aid in the process. They offer various services and it’s all 100% online. This website contains all their information. </p>
 
 ### Language and tools that I use :wrench:
@@ -27,7 +27,10 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874183-c23d642c-8d90-4269-aeb1-36be0a3a091d.png"/></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874181-6a3df9d8-ee87-4767-a82a-9231cc0aa616.png"/></code>
 <code><img height="40" src="https://github.com/user-attachments/assets/41d0e002-a613-4c24-93e6-eb4df6c9e927"/></code>
-<code>![React](https://github.com/user-attachments/assets/e5869a59-861d-4999-a68f-388fe8433297)</code>
+<code><img height='40' src="https://github.com/user-attachments/assets/e5869a59-861d-4999-a68f-388fe8433297"/></code>
+<code><img height='40' src="https://github.com/user-attachments/assets/4b1f8dd1-4404-4962-a331-5381d10947c8"/></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/6fafe45e-9d97-4e58-873a-2b24da5a1498"/></code>
+
 
 
 
