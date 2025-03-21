@@ -21,11 +21,13 @@
 ### Language and tools that I use :wrench:
 <br/>
 
-<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874139-d7d03c7b-cf90-49b9-8e8e-e6c48c01a54b.png"></img></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874180-5da11365-a12e-4133-a00b-ed9039e9f06b.png"></img></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874185-177c9083-7957-4a4a-a1c2-46955b48c3c3.png"></img></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874183-c23d642c-8d90-4269-aeb1-36be0a3a091d.png"></img></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874181-6a3df9d8-ee87-4767-a82a-9231cc0aa616.png"></img></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874139-d7d03c7b-cf90-49b9-8e8e-e6c48c01a54b.png"/></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874180-5da11365-a12e-4133-a00b-ed9039e9f06b.png"/></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874185-177c9083-7957-4a4a-a1c2-46955b48c3c3.png"/></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874183-c23d642c-8d90-4269-aeb1-36be0a3a091d.png"/></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/109675347/190874181-6a3df9d8-ee87-4767-a82a-9231cc0aa616.png"/></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/41d0e002-a613-4c24-93e6-eb4df6c9e927"/></code>
+
 
 
 ### Connect with me 
